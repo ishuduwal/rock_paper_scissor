@@ -1,3 +1,5 @@
+![image](https://github.com/ishuduwal/rock_paper_scissor/assets/115239975/9b1d85a9-72af-411f-9d65-5e4a4a965869)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
